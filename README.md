@@ -1,10 +1,10 @@
-### Hi! I am Krisina 👋
+### Hi! I am Kristina 👋
 
 🌱 I’m currently learning FrontEnd at RS School.
 📫 How to reach me: 
 
-* LinkedIn  [Kristina Kerdyanova](https://www.linkedin.com/in/kkerdyanova/)
-* E-mail    kerdyanova.k@gmail.com                                                                            
+* LinkedIn: [Kristina Kerdyanova](https://www.linkedin.com/in/kkerdyanova/)
+* E-mail: kerdyanova.k@gmail.com                                                                            
 
 ⚡My skills: 
 
